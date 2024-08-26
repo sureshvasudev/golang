@@ -2,6 +2,7 @@
 
 ### My Notes
 [Basic - Packages and Variables](./docs/basic.md)
+[Composite Types](./docs/composite.md)
 
 ## Commands
 **go mod init {module_name}** :  To create a module
